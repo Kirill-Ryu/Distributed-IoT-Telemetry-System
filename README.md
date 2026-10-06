@@ -33,8 +33,6 @@
 - Processed and parsed real-time hardware inclination data into structured JSON payloads.
 - Designed an **embedded state machine** that automatically controls physical LED actuators based on specific inclination thresholds and real-time sensor inputs.
 
-## System Architecture & Demo
-
 
 
 ---
